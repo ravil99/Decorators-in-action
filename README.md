@@ -1,50 +1,24 @@
-# SDwPython_1
-# Repository for 1st assignment in Software Design with Python course 
+# SDwPython_1. Ravil Akhmetzhanov
+## 1st assignment in "Software Design with Python" course 
 
-<a id = "anchor"></a>
+    There are 5 files in repository: task_1 - task_4.py and main.py. 
+    task_1 - task_4.py are included in main
 
-* List_1:
-    * bla_bla:
-        * bla_bla_bla
-
-1. Inter
-2. Atalanta
-3. Napoli
-4. Juventus
-
----
-__HELLO, WORLD!__ 
-_WORLD!_
-    ___HAVE A NICE DAY___
-
+* __task_1.py__ - Creates a function decorator that calculates function execution time and the number of times the decorated function was called (function call trace).
+* __task_2.py__ - Extends task_1.py by printing some information about function, like:
+    * Name
+    * Type
+    * Signature
+    * Information about arguments
+    * Docstring
+    * Source coed
+    * Output
+* __task_3.py__ - this file contains decorator behavior in tasks 1 & 2 using a class decorator. All the program output (from the decorator) should be dumped into a .txt file.
+* __task_4.py__ - final extention. It extends function and class decorators so that if a decorated function encounters an error it pipes the error stream into a log file together with a timestamp.Log file's name is  "log.txt"
+* __main.py__ - this file is used to test task_1 - task_4.py. This file is ready to run. Some part of output will be printed in Python stdout, while other will be printed in .txt files.
 
 
-' ' '
-a = 1
-b = 2
-a = b
-' ' '
 
->Я твой дед. Мой дед
->> Это правда
 
-[link to my github](https://github.com/ravil99)
-[![Best football club](FC_Internazionale_Milano_2021.svg.png)](https://www.youtube.com/c/InterOfficial/featured)
-
-taste   |   colour    | smell
-:-------|:-----------:|------:
-sweet   |   red       | great
-sour    |   yellow    | disgusiting
-salty   |   white     | normal
-
-\# Not a header
-
-Term
-:   Definiton
-
-Corgi
-:   A nice dog
-
-[Up](#anchor)
 
 
