@@ -17,6 +17,9 @@
 * __task_4.py__ - final extention. It extends function and class decorators so that if a decorated function encounters an error it pipes the error stream into a log file together with a timestamp.Log file's name is  "log.txt"
 * __main.py__ - this file is used to test task_1 - task_4.py. This file is ready to run. Some part of output will be printed in Python stdout, while other will be printed in .txt files.
 
+# How to run:
+    python3 main.py
+
 
 
 
