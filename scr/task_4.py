@@ -71,7 +71,7 @@ class Decor_4:
 
         end = time.time()
         dif = end - start
-        with open(f"Decor_4_{self.cl_func_4.__name__}{self.calls}.txt", "w") as file:
+        with open(f"Decor_4_{self.cl_func_4.__name__}{self.calls}.txt", "a") as file:
             file.write(f'{self.cl_func_4.__name__} call {self.calls} in {dif} sec\n')
 
             file.write( f'Name:  {indent(self.cl_func_4.__name__, 8 * " ")} \n'
