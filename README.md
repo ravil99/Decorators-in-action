@@ -1,4 +1,4 @@
-# Innopolis Unviersity. Software Design with Python. Assignment 1. Ravil Akhmetzhanov
+# Innopolis Unviersity. Software Design with Python. Assignment 1. Ravil Akhmetzhanov.
 ## Decorators in action 
 
 There are 5 files in repository: task_1 - task_4.py and main.py. 
