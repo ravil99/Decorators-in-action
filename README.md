@@ -1,8 +1,8 @@
-# SDwPython_1. Ravil Akhmetzhanov
-## 1st assignment in "Software Design with Python" course 
+# Innopolis Unviersity. Software Design with Python. Assignment 1. Ravil Akhmetzhanov
+## Decorators in action 
 
-    There are 5 files in repository: task_1 - task_4.py and main.py. 
-    task_1 - task_4.py are included in main
+There are 5 files in repository: task_1 - task_4.py and main.py. 
+task_1 - task_4.py are included in main
 
 * __task_1.py__ - Creates a function decorator that calculates function execution time and the number of times the decorated function was called (function call trace).
 * __task_2.py__ - Extends task_1.py by printing some information about function, like:
